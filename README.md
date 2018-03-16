@@ -15,7 +15,7 @@ Customize the behaviour of all Scrapy components
 ## listing_page_spider.py 
 Scrape page contents for urls on listing pages
 
-##rental_pricing_spider.py
+## rental_pricing_spider.py
 Parse link, price, size and location from page contents
 
 ## export_as_csv.py
